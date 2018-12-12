@@ -1,3 +1,2 @@
 ### perl-basic
-basic foundation from runoob.com
-http://www.runoob.com/perl
+basic foundation from http://www.runoob.com/perl
